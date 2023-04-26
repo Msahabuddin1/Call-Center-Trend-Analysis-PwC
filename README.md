@@ -1,7 +1,9 @@
 # Call-Center-Trend-Analysis-PwC
 
 Task : Create a dashboard in Power BI for the Call center Manager to understand the transparency and insights from the data.
+
 Objective : Visualizing customer and agent behavior
+
 Insights :
 
 📊 1.Overall Calls, Answered Calls, Abandoned Calls, Average speed of answer, Call answer rate, Average call time, Customer satisfaction.
